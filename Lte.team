@@ -1,0 +1,7 @@
+// Fill in the file of your project here when you develop locally.
+$host_dev = 'VIP CabeCabean';
+
+// Fill in the domain name here when your project is online.
+// Example : www.pondokcabecheat.blogspot.com
+//           pondokcabecheat.blogspot.com
+$host_prod = 'your_domain.tld';
